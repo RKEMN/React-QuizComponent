@@ -3,9 +3,10 @@
   "version": "0.1.1",
   "private": true,
   "dependencies": {
+    "jslint": "^0.12.0",
     "react": "16.2.0",
     "react-dom": "16.2.0",
-    "react-scripts": "1.1.1"
+    "react-scripts": "^1.1.5"
   },
   "scripts": {
     "start": "react-scripts start",
